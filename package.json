@@ -1,0 +1,23 @@
+{
+  "name": "random-access-page-files",
+  "version": "0.0.0",
+  "description": "An abstract-random-access backend that writes to fixed size page files instead of a single file. Useful for sparse data.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^8.3.0"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/random-access-page-files.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/random-access-page-files/issues"
+  },
+  "homepage": "https://github.com/mafintosh/random-access-page-files"
+}
