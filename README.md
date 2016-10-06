@@ -6,6 +6,8 @@ An [abstract-random-access](https://github.com/juliangruber/abstract-random-acce
 npm install random-access-page-files
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/random-access-page-files.svg?style=flat)](http://travis-ci.org/mafintosh/random-access-page-files)
+
 ## Usage
 
 ``` js
