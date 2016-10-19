@@ -1,6 +1,6 @@
 {
   "name": "random-access-page-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An abstract-random-access backend that writes to fixed size page files instead of a single file. Useful for sparse data.",
   "main": "index.js",
   "dependencies": {
